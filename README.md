@@ -28,10 +28,21 @@ A user do the following upon visiting the site
 - [ ] Set up an interview time when logged in
 - [ ] Modify or delete resume uploads and interview times
 
+## Mindmap
 ![alt text](example-project/assets/map.png)
+
+## Database Outline
 ![alt text](example-project/assets/dbdiagram.png)
+
+## Previous Parts
 ![alt text](example-project/assets/previous.png)
+
+## Site Mockup
 ![alt text](example-project/assets/mockup.png)
+
+## Opportunities
 ![alt text](example-project/assets/opportunities.png)
+
+## About Page
 ![alt text](example-project/assets/about.png)
 
