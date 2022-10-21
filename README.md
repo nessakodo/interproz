@@ -28,10 +28,10 @@ A user do the following upon visiting the site
 - [ ] Set up an interview time when logged in
 - [ ] Modify or delete resume uploads and interview times
 
-![alt text](./example-project/assets/map.png)
-![alt text](./example-project/assets/dbdiagram.png)
-![alt text](./example-project/assets/previous.png)
-![alt text](./example-project/assets/mockup.png)
-![alt text](./example-project/assets/opportunities.png)
-![alt text](./example-project/assets/about.png)
+![alt text](example-project/assets/map.png)
+![alt text](example-project/assets/dbdiagram.png)
+![alt text](example-project/assets/previous.png)
+![alt text](example-project/assets/mockup.png)
+![alt text](example-project/assets/opportunities.png)
+![alt text](example-project/assets/about.png)
 
